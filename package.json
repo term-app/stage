@@ -1,0 +1,13 @@
+{
+  "name": "stage-monorepo",
+  "version": "0.0.1",
+  "description": "mono repo for STAGE and friends",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "packageManager": "pnpm@8.10.2",
+	"engines": {
+		"pnpm": "^8.0.0"
+	}
+}
